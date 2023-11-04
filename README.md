@@ -1,1 +1,2 @@
 # Electronic-Store-Sales-Data-EDA
+The aim of the project is to benefit all the people involved in the purchasing process of electronic products. The primary aim is to increase sales of electronic products by providing useful insights for businesses which are trying to venture into the industry and trying to get optimal sales numbers for products. The project also aims to benefit the consumers by providing the best time-period in which a consumer can buy the product.
