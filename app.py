@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 
 # Read the CSV data
-data = pd.read_csv(r"C:\Users\laksh\Downloads\Processed_sales_data (1).csv")
+data = pd.read_csv("Processed_sales_data.csv")
 df = pd.DataFrame(data)
 
 st.title("Electronic Sales")
